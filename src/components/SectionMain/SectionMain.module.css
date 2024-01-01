@@ -1,0 +1,9 @@
+.section_container {
+  margin: auto;
+  padding: 20px;
+  width: 400px;
+}
+.section_title {
+  text-align: center;
+  margin: 0;
+}
